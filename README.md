@@ -4,7 +4,8 @@
 -> ABB (Árvore Binária de Busca) — sem balanceamento.  
 -> AVL (Árvore Binária de Busca com Balanceamento AVL).  
 ***
-🎯 Objetivo
+🎯 Objetivo:  
+
 Implementar duas versões de árvores binárias de busca (ABB e AVL) e comparar seu desempenho prático em:
 
 -> Construção da árvore (tempo + número de comparações para inserção).    
