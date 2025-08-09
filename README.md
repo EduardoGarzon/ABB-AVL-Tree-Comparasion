@@ -7,7 +7,7 @@
 🎯 Objetivo
 Implementar duas versões de árvores binárias de busca (ABB e AVL) e comparar seu desempenho prático em:
 
--> Construção da árvore (tempo + número de comparações para inserção).  
+-> Construção da árvore (tempo + número de comparações para inserção).    
 -> Consulta na árvore (tempo + número de comparações para busca).
 ***
 📋 A comparação entre ABB e AVL será feita com base em:
