@@ -4,8 +4,8 @@ import os
 # Caminhos base
 dir_construir = r".\Entradas Árvores\Construir"
 dir_consultar = r".\Entradas Árvores\Consultar"
-dir_saida = r".\Resultados"
-exe_path = r".\ABB.exe"
+dir_saida = r".\Resultados-AVL"
+exe_path = r".\AVL.exe"
 
 # Tamanhos de teste
 tamanhos = [50, 100, 200, 300, 500, 750, 1000, 1500, 2000, 3000, 5000, 7500, 10000, 12500, 15000, 15000, 20000, 25000, 30000, 40000, 50000, 75000, 100000, 125000, 150000, 175000, 200000, 225000, 250000]  # Adicione mais tamanhos conforme necessário
